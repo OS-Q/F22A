@@ -66,7 +66,7 @@ jobs:
       - name: Build
         if: success()
         run: |
-          pio run -d ${{ matrix.example }}
+          pio run -d .
 
       - name: Upload
         if: env.UPLOAD_BUILD
