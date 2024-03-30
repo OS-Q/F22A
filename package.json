@@ -1,0 +1,15 @@
+{
+  "name": "framework-agrv_rtthread",
+  "version": "1.0.0",
+  "description": "A free realtime THREAD suite, customized for AgRV devices",
+  "keywords": [
+    "framework",
+    "realtime",
+    "os",
+    "thread",
+    "rtthread",
+    "risc-v",
+    "agrv",
+    "agm"
+  ]
+}
